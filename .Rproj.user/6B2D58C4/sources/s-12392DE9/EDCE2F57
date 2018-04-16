@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1523891915039.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "EDCE2F57",
+    "lastKnownWriteTime" : 1523897733,
+    "last_content_update" : 1523897733135,
+    "path" : "~/Orientation/index.rmd",
+    "project_path" : "index.rmd",
+    "properties" : {
+        "cursorPosition" : "19,16",
+        "docOutlineVisible" : "0",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "---\ntitle: \"Habits\"\nauthor: John Doe\ndate: March 22, 2005\noutput: revealjs::revealjs_presentation\n---\n\n```{r}\n# install.packages('revealjs')\nlibrary(revealjs)\n```\n  \n# In the morning\n\n## Getting up\n\n- Turn off alarm\n- Get out of bed\n\n## Breakfast\n\n- Eat eggs\n- Drink coffee\n\n# In the evening\n\n## Dinner\n\n- Eat spaghetti\n- Drink wine\n\n## Going to sleep\n\n- Get in bed\n- Count sheep\n",
+    "created" : 1523891915039.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "955014056",
+    "id" : "EDCE2F57",
+    "lastKnownWriteTime" : 1523893806,
+    "last_content_update" : 1523893806325,
+    "path" : "~/Orientation/hello.rmd",
+    "project_path" : "hello.rmd",
+    "properties" : {
+        "docOutlineVisible" : "0"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
